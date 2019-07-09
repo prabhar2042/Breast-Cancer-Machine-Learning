@@ -1,0 +1,3 @@
+Inches horiz vert
+A	97.6 72.3
+B	77.6 53.9
